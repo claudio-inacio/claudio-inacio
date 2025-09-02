@@ -21,5 +21,5 @@
 </div>
 
 ### Meus Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-inacio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-inacio&layout=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudio-inacio&show_icons=true&theme=radical)
