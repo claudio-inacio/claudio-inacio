@@ -31,3 +31,11 @@
   <img minHeight=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudio-inacio&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
+
+### Contatos
+<div>
+            <a href="https://www.instagram.com/c.inaciio/?next=%2F"  >
+               <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />         
+            </a>
+            
+</div>
