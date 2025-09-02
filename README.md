@@ -24,7 +24,7 @@
 
 <div>
             
-<a href="https://github.com/claudio-inacio/github-readme-stats">
+<a href="https://github.com/claudio-inacio">
   <img minHeight=200 align="center" src="https://github-readme-stats.vercel.app/api?username=claudio-inacio" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
