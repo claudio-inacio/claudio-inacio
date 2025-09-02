@@ -22,4 +22,4 @@
 
 ### Meus Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudio-inacio&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-inacio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
