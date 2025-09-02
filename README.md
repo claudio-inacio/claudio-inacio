@@ -21,5 +21,6 @@
 </div>
 
 ### Meus Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudio-inacio&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
